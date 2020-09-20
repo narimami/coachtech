@@ -11,7 +11,6 @@
      <a @click="$router.push({name: 'Home' })" class="cp_btn">button</a>
     </div>
   </div>
-  </div>
 </template>
 
 <script>
